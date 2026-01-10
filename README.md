@@ -24,5 +24,4 @@ Este projeto demonstra a visualização e análise de métricas consolidadas de 
 
 ## 🖼️ Preview do Dashboard
 
-*(Lembre-se de subir a imagem do dashboard de e-mail para a pasta 'images/' antes de adicionar esta linha)*
-![Captura de tela do Dashboard de Tableau mostrando Open Rate, Click Rate e rankings por país](images/tableau_dashboard_preview.png)
+![Visualização do Dashboard de Métricas de E-mail no Tableau](images/tableau-email-metrics-preview.png)
