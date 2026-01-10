@@ -16,7 +16,7 @@ Este projeto demonstra a visualização e análise de métricas consolidadas de 
 
 * **Ferramenta BI:** Tableau Desktop / Tableau Public
 * **Fonte de Dados:** Dados gerados por query SQL de Data Warehousing.
-* **Link para SQL de Origem:** [Insira o link para o seu repositório sql-email-account-metrics aqui]
+* **Link para SQL de Origem:** [sql-email-account-metrics](https://github.com/camilogameiro/sql-email-account-metrics)
 * **Destaques do Tableau:**
     * **Criação de Taxas:** Implementação de medidas calculadas cruciais como **Open Rate**, **Click Rate** e **CTOR (Click-Through Open Rate)**.
     * **Visualização Temporal:** Uso de gráficos de linha para rastrear as tendências diárias das taxas ao longo do tempo.
