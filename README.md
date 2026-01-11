@@ -24,4 +24,4 @@ Este projeto demonstra a visualização e análise de métricas consolidadas de 
 
 ## 🖼️ Preview do Dashboard
 
-![Visualização do Dashboard de Métricas de E-mail no Tableau](images/tableau-email-metrics-preview.png)
+![Visualização do Dashboard de Métricas de E-mail no Tableau](images/tableau-email-metrics-preview.png.png)
